@@ -11,7 +11,7 @@ More information on that environment can be found at <https://github.com/Unidata
 
 ### java-version
 
-* **Required**: Version of java to use when running the tests (8, 11, or 14)
+* **Required**: Version of java to use when running the tests  (choose from valid versions in thredds-test-environment)
 
 ### build-tool
 

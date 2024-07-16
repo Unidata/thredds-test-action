@@ -6,7 +6,7 @@ inputs:
     description: 'Vendor of java to use when running the tests (temurin or zulu)'
     required: true
   java-version:
-    description: 'Version of java to use when running the tests (8, 11, or 14)'
+    description: 'Version of java to use when running the tests'
     required: true
   build-tool:
     description: 'name of build tool used to run the tests (gradlew or mvn)'

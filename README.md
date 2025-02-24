@@ -24,7 +24,7 @@ More information on that environment can be found at <https://github.com/Unidata
 ## Example usage
 
 ~~~yml
-uses: Unidata/thredds-test-action@v2
+uses: Unidata/thredds-test-action@v3
 with:
   java-vendor: 'temurin'
   java-version: '11'
